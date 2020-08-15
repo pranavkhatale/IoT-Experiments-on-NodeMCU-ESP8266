@@ -5,3 +5,4 @@ This repository contains IoT experiments on NodeMCU ESP8266, with slides and oth
 Experiments:
 1. Blink LED
 2. Fade LED
+3. Blink LED without delay
