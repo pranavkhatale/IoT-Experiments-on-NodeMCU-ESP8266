@@ -1,4 +1,5 @@
 # IoT-Experiments-on-NodeMCU-ESP8266
+![](https://i2.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.png?w=817&ssl=1)
 This repository contains IoT experiments on NodeMCU ESP8266, with slides and other resources especially for the beginners.
 [Arduino IDE setup for NodeMCU ESP8266](https://github.com/esp8266/Arduino)
 
